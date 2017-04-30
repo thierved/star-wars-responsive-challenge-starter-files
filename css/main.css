@@ -1,0 +1,43 @@
+body {
+  padding-top: 100px;
+  max-width: 960px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+img {
+  height: 200px;
+  padding:0;
+}
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: orange;
+  position: absolute;
+  top: 0;
+}
+
+h1, p {
+  margin-left: 20px;
+}
+
+h5 {
+  position: relative;
+  bottom: 25px;
+  padding: 10px;
+  font-weight: normal;
+}
+figure {
+  border: 1px lightgrey solid;
+  width: 200px;
+  height: 260px;
+  float: left;
+}
+
+figcaption {
+  margin: 10px;
+}
+
